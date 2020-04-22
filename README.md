@@ -12,7 +12,7 @@ This is the pending functionalities to be included in the projects before **Apri
 - [x] Display all post ordered by number of views in admin dashboard ***done by Shanif***
 - [x] Edit/delete posts for user and delete for admin ***done by Shanif***
 - [x] Auto bind new post when a new post is added ***done by Shanif***
-- [ ] Re-check graph bugs due to above changes ***on progress by Munawar***
+- [x] Re-check graph bugs due to above changes ***done by Munawar***
 
 ## DGCS
 - [x] Post add page error ***done by Shanif***
