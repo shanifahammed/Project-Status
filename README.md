@@ -38,3 +38,4 @@ This is the pending functionalities to be included in the projects before **Apri
 
 ## KPET
 - [x] Minor bug fixes ***done by Munawar***
+All updates are done
