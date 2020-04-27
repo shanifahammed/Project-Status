@@ -1,9 +1,9 @@
 ## Existing modules
-- [ ] Reciept
+- [x] Reciept ***done ***
 - [ ] Payroll
 
 ## Existing reports
-- [ ] Bug fixes in existing reports (Invoice, reciepts, etc.)
+- [x] Bug fixes in existing reports (Invoice, reciepts, etc.) ***done ***
 - [ ] Line space adjustment in crystal reports for the above reports
 
 ## New reports
