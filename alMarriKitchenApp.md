@@ -7,8 +7,8 @@
 - [ ] Line space adjustment in crystal reports for the above reports
 
 ## New reports
-- [ ] Income vs expense report of any day, month , year or between custom dates
-- [ ] Customer report - sales, payement done and balance - Total, month, year, custom dates
+- [x] Income vs expense report of any day, month , year or between custom dates ***done***
+- [x] Customer report - sales, payement done and balance - Total, month, year, custom dates ***done***
 - [ ] Accounts report - Balance, debits and credits - total, monthly, yearly and custom
 
 ## Dashboard tables and charts
