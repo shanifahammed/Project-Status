@@ -1,6 +1,6 @@
 ## Existing modules
 - [x] Reciept ***done ***
-- [ ] Payroll
+- [x] Payroll
 
 ## Existing reports
 - [x] Bug fixes in existing reports (Invoice, reciepts, etc.) ***done ***
