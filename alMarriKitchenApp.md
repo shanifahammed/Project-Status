@@ -12,9 +12,9 @@
 - [x] Accounts report - Balance, debits and credits - total, monthly, yearly and custom ***done ***
 
 ## Dashboard tables and charts
-- [ ] Top customers of the month (selectable is preferred) based on the sales done
-- [ ] Customer outstanding based on the balance amount pending
-- [ ] Income vs expense line graph of the month (selectable is preferred)
+- [x] Top customers of the month (selectable is preferred) based on the sales done ***done ***
+- [x] Customer outstanding based on the balance amount pending ***done ***
+- [x] Income vs expense line graph of the month (selectable is preferred) ***done ***
 
 ## Costing module
 **Collecting data. Will update soon...**
