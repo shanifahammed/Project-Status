@@ -1,25 +1,25 @@
 ## Shop Entry
-- [ ] Make Location, Shopname & phone mandatory. All else is optional.
+- [x] Make Location, Shopname & phone mandatory. All else is optional. ***done ***
 
 ## Sponsor Entry
-- [ ] Make Name & phone mandatory. All else is optional.
+- [x] Make Name & phone mandatory. All else is optional. ***done ***
 
 ## Contribution Entry
-- [ ] Make Name & Date mandatory. If amount is not added, set it as 0. Also if the contribution type is not selected, set it as others.
-      All else is optional.
+- [x] Make Name & Date mandatory. If amount is not added, set it as 0. Also if the contribution type is not selected, set it as others.
+      All else is optional. ***done ***
       
 ## Expense Entry
-- [ ] Make Name, amount & date mandatory. All else is optional.
+- [x] Make Name, amount & date mandatory. All else is optional. ***done ***
 
 ## Expense Report
     This is similar to the master report. Same layout. A dropdown list is added to select the type of expense like petrol. From & To date selection is same as the master report. Initially the current month is loaded.
     
-- [ ] Create expense report.
+- [x] Create expense report. ***done ***
 
 ## Send SMS
-- [ ] Remove/Disable/Read-Only the phone number textbox.
-- [ ] Add a searchable table of all the sponsors and shops with checkbox.
-- [ ] Button to add the numbers of the checked person(s) to the textbox.
+- [x] Remove/Disable/Read-Only the phone number textbox. ***done ***
+- [x] Add a searchable table of all the sponsors and shops with checkbox. ***done ***
+- [x] Button to add the numbers of the checked person(s) to the textbox. ***done ***
 
 ## Meetings
 - [ ] Add a page to add members - Name & phone - Both are mandatory. Create a new members table.
