@@ -33,7 +33,7 @@ If Administrator want to delete the payment received invoice, then receipt vouch
 - [ ] UAE VAT is 5%, please therefore make default is 5% (instead of 10%)
 - [ ] Please provide a field to enter LPO NUMBER (optional)
 - [ ] While saving invoice please provide an option to save as 1) DRAFT INVOICE 2) CONFIRMED INVOICE
-  DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE After saving as CONFIRMED INVOICE then it cannot be edited or reversed (except the administrator)
+DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After saving as CONFIRMED INVOICE then it cannot be edited or reversed (except the administrator)
 - [ ] PAGE FOOTER records only appear in end of the INVOICE, now it is appearing in all page. (if invoice having more than 1 page let it appear only the last page)
 
 ## PURCHASE INVOICE
