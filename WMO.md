@@ -22,9 +22,9 @@
 - [x] Button to add the numbers of the checked person(s) to the textbox. ***done ***
 
 ## Meetings
-- [ ] Add a page to add members - Name & phone - Both are mandatory. Create a new members table.
-- [ ] Add a page to add members to a member list - Searchable table with checkbox, a textbox for naming the member list & a button to         create the list.
-- [ ] Add a new send sms page with a dropdown to select the member list, a text area to type message & a button to send SMS,  
+- [x] Add a page to add members - Name & phone - Both are mandatory. Create a new members table. ***done ***
+- [x] Add a page to add members to a member list - Searchable table with checkbox, a textbox for naming the member list & a button to         create the list. ***done ***
+- [x] Add a new send sms page with a dropdown to select the member list, a text area to type message & a button to send SMS,   ***done ***
       OR
 - [ ] Add a dropdown of member list in the Send SMS page. Use a radio button to switch between member & normal SMS.
 
