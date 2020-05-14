@@ -2,10 +2,10 @@
 - [ ] Line space adjustment in crystal reports for the above reports ***on progress by Munawar***
 
 ## CUSTOMER MASTER
-- [ ] Option to add TRN NUMBER of the customers, this TRN NUMBER to be appeared under INVOICE of the same customer.
+- [x] Option to add TRN NUMBER of the customers, this TRN NUMBER to be appeared under INVOICE of the same customer.  ***done***
 
 ## PRODUCT
-- [ ] Only show the PRODUCT NAME when we browse and insert PRODUCTS from the list under Quotation or Site visit module.
+- [x] Only show the PRODUCT NAME when we browse and insert PRODUCTS from the list under Quotation or Site visit module. ***done***
 
 Now it is displaying entire field of the product (i.e: product name, category, vendor, price, qty and description etc..)
 
