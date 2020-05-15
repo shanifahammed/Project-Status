@@ -10,15 +10,15 @@
 Now it is displaying entire field of the product (i.e: product name, category, vendor, price, qty and description etc..)
 
 ## QUOTATION
-- [ ] REMARKS… set the below wording as default (if required we will amend).
+- [x] REMARKS… set the below wording as default (if required we will amend).
       Dear Sir / Madam,
-      Thank you for your enquiry and we are pleased to offer you the following.
+      Thank you for your enquiry and we are pleased to offer you the following. ***done***
       
 - [ ] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. 
 
-- [ ] Provide an option to change the quotation sender name and address, it is required for sending quotation by multiple sales man (each sales man required to send their offer by their own name and number), keep the present one as default but in editable mode
+- [x] Provide an option to change the quotation sender name and address, it is required for sending quotation by multiple sales man (each sales man required to send their offer by their own name and number), keep the present one as default but in editable mode ***done***
 
-- [ ] Provide a SAVE AS option, to use the same quotation for another customers if the requirement / specification is same (only change the TO Address and send to the new customer).
+- [ ] Provide a SAVE AS option, to use the same quotation for another customers if the requirement / specification is same (only change the TO Address and send to the new customer). ***on progress***
 
 it is reduce the duplicate work…. Now system allows to edit the old quotationand change the customer name, but after saving old quotation is replacing with the new one (after saving old quotation no more accessible… disappear from the list). So we need like a save as or save as template option. 
 
