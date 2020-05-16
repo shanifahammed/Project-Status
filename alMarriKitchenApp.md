@@ -18,19 +18,19 @@ Now it is displaying entire field of the product (i.e: product name, category, v
 
 - [x] Provide an option to change the quotation sender name and address, it is required for sending quotation by multiple sales man (each sales man required to send their offer by their own name and number), keep the present one as default but in editable mode ***done***
 
-- [ ] Provide a SAVE AS option, to use the same quotation for another customers if the requirement / specification is same (only change the TO Address and send to the new customer). ***on progress***
+- [x] Provide a SAVE AS option, to use the same quotation for another customers if the requirement / specification is same (only change the TO Address and send to the new customer). ***done***
 
 it is reduce the duplicate work…. Now system allows to edit the old quotationand change the customer name, but after saving old quotation is replacing with the new one (after saving old quotation no more accessible… disappear from the list). So we need like a save as or save as template option. 
 
 ## INVOICE
 - [ ] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. 
-- [ ] If one invoice is deleted, then unable to recreate the invoice for the same project again (Project number is not showing under new invoice screen). 
+- [x] If one invoice is deleted, then unable to recreate the invoice for the same project again (Project number is not showing under new invoice screen). ***Done***
 - [ ] INVOICE DELETION or REVERSAL: Please restrict the invoice and receipt delete/reverse permission to administrator only…
 
 If Administrator want to delete the payment received invoice, then receipt voucher must reverse first,, then only allow to reverse the invoice. … otherwise we will have issues in the invoice outstanding part.. please check and do the needful. 
 
-- [ ] TRN NUMBER is mandatory: let it pick from the customer master
-- [ ] UAE VAT is 5%, please therefore make default is 5% (instead of 10%)
+- [x] TRN NUMBER is mandatory: let it pick from the customer master  ***Done***
+- [x] UAE VAT is 5%, please therefore make default is 5% (instead of 10%)  ***Done***
 - [ ] Please provide a field to enter LPO NUMBER (optional)
 - [ ] While saving invoice please provide an option to save as 1) DRAFT INVOICE 2) CONFIRMED INVOICE
 
