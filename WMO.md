@@ -29,8 +29,8 @@
 - [ ] Add a dropdown of member list in the Send SMS page. Use a radio button to switch between member & normal SMS.
 
 ## Area
-- [ ] Add entries - Area name, area code (selected automatically), date and amount.
-- [ ] Add an area ( Area name & area code) - New page or included in the above page
-- [ ] Report to show the income from selected area or code for the selected date (to/from)
+- [x] Add entries - Area name, area code (selected automatically), date and amount. ***done *** 
+- [x] Add an area ( Area name & area code) - New page or included in the above page ***done ***
+- [x] Report to show the income from selected area or code for the selected date (to/from)  ***done ***
 
 The newest updated solution file : https://we.tl/t-sCdKYjSUSb
