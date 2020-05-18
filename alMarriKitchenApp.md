@@ -26,6 +26,9 @@ it is reduce the duplicate work…. Now system allows to edit the old quotationa
 
 ## INVOICE
 - [ ] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. 
+
+logo file: https://we.tl/t-m6RkYIbgtG
+
 - [x] If one invoice is deleted, then unable to recreate the invoice for the same project again (Project number is not showing under new invoice screen). ***Done***
 - [ ] INVOICE DELETION or REVERSAL: Please restrict the invoice and receipt delete/reverse permission to administrator only…
 
@@ -66,5 +69,13 @@ Leave entries are done for the current month. If an employee is on leave from 25
 - [ ] List of confirmed invoices with a view button to generate delivery note
 
 Same as invoice without the price details
+## Admin login
+- [ ] Create a login modal to enter password
+- [ ] Call this modal on pages where admin permission is required
+- [ ] Add logout button to header of these pages when logged in
+- [ ] Edit reciept, edit confirmed invoice, financial reports pages, employees pages, payroll pages.
+
 ## Costing module
 **Collecting data. Will update soon...**
+
+
