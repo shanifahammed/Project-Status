@@ -30,7 +30,7 @@ it is reduce the duplicate work…. Now system allows to edit the old quotationa
 logo file: https://we.tl/t-m6RkYIbgtG
 
 - [x] If one invoice is deleted, then unable to recreate the invoice for the same project again (Project number is not showing under new invoice screen). ***Done***
-- [ ] INVOICE DELETION or REVERSAL: Please restrict the invoice and receipt delete/reverse permission to administrator only…
+- [x] INVOICE DELETION or REVERSAL: Please restrict the invoice and receipt delete/reverse permission to administrator only… ***Done***
 
 If Administrator want to delete the payment received invoice, then receipt voucher must reverse first,, then only allow to reverse the invoice. … otherwise we will have issues in the invoice outstanding part.. please check and do the needful. 
 
@@ -38,6 +38,7 @@ If Administrator want to delete the payment received invoice, then receipt vouch
 - [x] UAE VAT is 5%, please therefore make default is 5% (instead of 10%)  ***Done***
 - [x] Please provide a field to enter LPO NUMBER (optional) ***Done***
 - [x] While saving invoice please provide an option to save as 1) DRAFT INVOICE 2) CONFIRMED INVOICE ***Done***
+
 
 DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After saving as CONFIRMED INVOICE then it cannot be edited or reversed (except the administrator)
 - [ ] PAGE FOOTER records only appear in end of the INVOICE, now it is appearing in all page. (if invoice having more than 1 page let it appear only the last page)
