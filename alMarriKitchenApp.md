@@ -37,13 +37,14 @@ If Administrator want to delete the payment received invoice, then receipt vouch
 - [x] TRN NUMBER is mandatory: let it pick from the customer master  ***Done***
 - [x] UAE VAT is 5%, please therefore make default is 5% (instead of 10%)  ***Done***
 - [x] Please provide a field to enter LPO NUMBER (optional) ***Done***
-- [ ] While saving invoice please provide an option to save as 1) DRAFT INVOICE 2) CONFIRMED INVOICE
+- [x] While saving invoice please provide an option to save as 1) DRAFT INVOICE 2) CONFIRMED INVOICE ***Done***
+
 
 DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After saving as CONFIRMED INVOICE then it cannot be edited or reversed (except the administrator)
 - [ ] PAGE FOOTER records only appear in end of the INVOICE, now it is appearing in all page. (if invoice having more than 1 page let it appear only the last page)
 
 ## RECIEPT
-- [ ] Receipt start with Customer Number . Once the customer is selected, his invoice(s) is/are selected from the datalist.
+- [ ] Receipt start with Customer Number . Once the customer is selected, his invoice(s) is/are selected from the datalist. ***On Progress***
 - [ ] Let Payer name auto-populated from Customer Master 
 - [ ] In Payment History section, let it display all the unpaid invoices of the particular customer.
 - [ ] Paid invoice numbers are not showing in the receipt(Show the invoice(s) number for which the reciept isn generated) 
