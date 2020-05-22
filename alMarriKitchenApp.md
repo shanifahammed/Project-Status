@@ -44,13 +44,13 @@ DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After 
 - [ ] PAGE FOOTER records only appear in end of the INVOICE, now it is appearing in all page. (if invoice having more than 1 page let it appear only the last page)
 
 ## RECIEPT
-- [ ] Receipt start with Customer Number . Once the customer is selected, his invoice(s) is/are selected from the datalist. ***On Progress***
-- [ ] Let Payer name auto-populated from Customer Master 
-- [ ] In Payment History section, let it display all the unpaid invoices of the particular customer.
-- [ ] Paid invoice numbers are not showing in the receipt(Show the invoice(s) number for which the reciept isn generated) 
-- [ ] Make receipt number auto-numbering	
-- [ ] Change the word CASH to Payment Mode  (screenshot attached for reference)
-- [ ] There is no option to REPRINT the saved receipt again, now we need to go to edit mode and then click on the SAVE button to print again, which is totally wrong (receipt cannot be edited by normal user).
+- [x] Receipt start with Customer Number . Once the customer is selected, his invoice(s) is/are selected from the datalist. ***Done*** 
+- [x] Let Payer name auto-populated from Customer Master ***Done*** 
+- [x] In Payment History section, let it display all the unpaid invoices of the particular customer. ***Done***
+- [x] Paid invoice numbers are not showing in the receipt(Show the invoice(s) number for which the reciept isn generated)  ***Done***
+- [x] Make receipt number auto-numbering	 ***Done***
+- [x] Change the word CASH to Payment Mode  (screenshot attached for reference) ***Done***
+- [x] There is no option to REPRINT the saved receipt again, now we need to go to edit mode and then click on the SAVE button to print again, which is totally wrong (receipt cannot be edited by normal user). ***Done***
 
 ## Payroll
 - [ ] Bulk payroll -select employees by checkbox, (Base pay - unpaid leave - previous advance deduction + overtime) 
