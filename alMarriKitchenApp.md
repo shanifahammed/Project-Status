@@ -52,6 +52,8 @@ DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After 
 - [x] Change the word CASH to Payment Mode  (screenshot attached for reference) ***Done***
 - [x] There is no option to REPRINT the saved receipt again, now we need to go to edit mode and then click on the SAVE button to print again, which is totally wrong (receipt cannot be edited by normal user). ***Done***
 
+Project and Data Base files :-  https://we.tl/t-KnNFRhu290
+
 ## Payroll
 - [ ] Bulk payroll -select employees by checkbox, (Base pay - unpaid leave - previous advance deduction + overtime) 
 - [ ] Leave entry - Select employee, enter leave date, calculate number of days, select leave type (paid, unpaid or sick)
