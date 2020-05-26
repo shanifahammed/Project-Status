@@ -7,7 +7,8 @@
 ## PRODUCT
 - [x] Only show the PRODUCT NAME when we browse and insert PRODUCTS from the list under Quotation or Site visit module. ***done***
 
-- [ ] Increase and decrease the stock qty during purchase and sale
+- [x] Increase and decrease the stock qty during purchase and sale ***done***
+
 
 Now it is displaying entire field of the product (i.e: product name, category, vendor, price, qty and description etc..)
 
@@ -16,7 +17,8 @@ Now it is displaying entire field of the product (i.e: product name, category, v
       Dear Sir / Madam,
       Thank you for your enquiry and we are pleased to offer you the following. ***done***
       
-- [ ] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. 
+- [x] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file.  ***done***
+
 
 - [x] Provide an option to change the quotation sender name and address, it is required for sending quotation by multiple sales man (each sales man required to send their offer by their own name and number), keep the present one as default but in editable mode ***done***
 
