@@ -27,7 +27,8 @@ Now it is displaying entire field of the product (i.e: product name, category, v
 it is reduce the duplicate work…. Now system allows to edit the old quotationand change the customer name, but after saving old quotation is replacing with the new one (after saving old quotation no more accessible… disappear from the list). So we need like a save as or save as template option. 
 
 ## INVOICE
-- [ ] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. 
+- [x] LOGO IMAGE TO BE CHANGED… Background shade is appearing.. Please insert the new logo image file. ***Done***
+
 
 logo file: https://we.tl/t-m6RkYIbgtG
 
@@ -58,9 +59,11 @@ Project and Data Base files :-  https://we.tl/t-KnNFRhu290
 
 ## Payroll
 - [ ] Bulk payroll -select employees by checkbox, (Base pay - unpaid leave - previous advance deduction + overtime) 
-- [ ] Leave entry - Select employee, enter leave date, calculate number of days, select leave type (paid, unpaid or sick)
+- [x] Leave entry - Select employee, enter leave date, calculate number of days, select leave type (paid, unpaid or sick) ***Done***
+
 - [ ] Advance payment- Select employee, Enter amount, select repayment mode (1. deduct from coming month 2. deduct from 3/6/12 months)
-- [ ] Overtime - Select employee, enter number of hours
+- [x] Overtime - Select employee, enter number of hours ***Done***
+
 - [ ] Employee report for selected year - Number of leaves - paid,unpaid,sick. , Remaining leaves, Total overtime, etc.
 
 Leave entries are done for the current month. If an employee is on leave from 25th to 31st of may and 1st to 5th of June, then it is marked as one leave of 11 days. Out of this 11 days if he only has 5 days of paid leave, then it is marked as 5 days paid till 30th May and 6 days unpaid leave from 31st to 5th.
