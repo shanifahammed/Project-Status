@@ -58,30 +58,30 @@ DRAFT INVOICE can be edited or changed until saving as CONFIRMED INVOICE. After 
 Project and Data Base files :-  https://we.tl/t-KnNFRhu290
 
 ## Payroll
-- [ ] Bulk payroll -select employees by checkbox, (Base pay - unpaid leave - previous advance deduction + overtime) 
+- [x] Bulk payroll -select employees by checkbox, (Base pay - unpaid leave - previous advance deduction + overtime) ***Done***
 - [x] Leave entry - Select employee, enter leave date, calculate number of days, select leave type (paid, unpaid or sick) ***Done***
 
-- [ ] Advance payment- Select employee, Enter amount, select repayment mode (1. deduct from coming month 2. deduct from 3/6/12 months)
+- [x] Advance payment- Select employee, Enter amount, select repayment mode (1. deduct from coming month 2. deduct from 3/6/12 months) ***Done***
 - [x] Overtime - Select employee, enter number of hours ***Done***
 
-- [ ] Employee report for selected year - Number of leaves - paid,unpaid,sick. , Remaining leaves, Total overtime, etc.
+- [x] Employee report for selected year - Number of leaves - paid,unpaid,sick. , Remaining leaves, Total overtime, etc. ***Done***
 
 Leave entries are done for the current month. If an employee is on leave from 25th to 31st of may and 1st to 5th of June, then it is marked as one leave of 11 days. Out of this 11 days if he only has 5 days of paid leave, then it is marked as 5 days paid till 30th May and 6 days unpaid leave from 31st to 5th.
 
 ## PURCHASE INVOICE
-- [ ] SUPPLIER MASTER: create a supplier master to enter the supplier name and details (same as customer master)
-- [ ] Provide an option to select the PROJECT NUMBER under PURCHASE INVOICE/NEW ITEM tab. So will know this item is purchased for the particular project. Also later we can check how much materials purchased for the same project. 
-- [ ] TAX 5% to be auto-populated (same as our SALES INVOICE),  Keep this amount editable.. because very rare invoices we are getting without TAX
+- [x] SUPPLIER MASTER: create a supplier master to enter the supplier name and details (same as customer master) ***Done***
+- [x] Provide an option to select the PROJECT NUMBER under PURCHASE INVOICE/NEW ITEM tab. So will know this item is purchased for the particular project. Also later we can check how much materials purchased for the same project.  ***Done***
+- [x] TAX 5% to be auto-populated (same as our SALES INVOICE),  Keep this amount editable.. because very rare invoices we are getting without TAX ***Done***
 
 ## Delivery Note
-- [ ] List of confirmed invoices with a view button to generate delivery note
+- [x] List of confirmed invoices with a view button to generate delivery note ***Done***
 
 Same as invoice without the price details
 ## Admin login
-- [ ] Create a login modal to enter password
-- [ ] Call this modal on pages where admin permission is required
-- [ ] Add logout button to header of these pages when logged in
-- [ ] Edit reciept, edit confirmed invoice, financial reports pages, employees pages, payroll pages.
+- [x] Create a login modal to enter password ***Done***
+- [x] Call this modal on pages where admin permission is required ***Done***
+- [x] Add logout button to header of these pages when logged in ***Done***
+- [x] Edit reciept, edit confirmed invoice, financial reports pages, employees pages, payroll pages. ***Done***
 
 ## Costing module
 **Collecting data. Will update soon...**
